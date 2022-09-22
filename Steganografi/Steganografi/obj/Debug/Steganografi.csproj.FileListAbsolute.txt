@@ -1,0 +1,14 @@
+D:\Time to CODE\cs\Steganografi\Steganografi\bin\Debug\Steganografi.exe.config
+D:\Time to CODE\cs\Steganografi\Steganografi\bin\Debug\Steganografi.exe
+D:\Time to CODE\cs\Steganografi\Steganografi\bin\Debug\Steganografi.pdb
+D:\Time to CODE\cs\Steganografi\Steganografi\obj\Debug\Steganografi.csprojAssemblyReference.cache
+D:\Time to CODE\cs\Steganografi\Steganografi\obj\Debug\Steganografi.Form1.resources
+D:\Time to CODE\cs\Steganografi\Steganografi\obj\Debug\Steganografi.Properties.Resources.resources
+D:\Time to CODE\cs\Steganografi\Steganografi\obj\Debug\Steganografi.csproj.GenerateResource.cache
+D:\Time to CODE\cs\Steganografi\Steganografi\obj\Debug\Steganografi.csproj.CoreCompileInputs.cache
+D:\Time to CODE\cs\Steganografi\Steganografi\obj\Debug\Steganografi.exe
+D:\Time to CODE\cs\Steganografi\Steganografi\obj\Debug\Steganografi.pdb
+D:\Time to CODE\cs\Steganografi\Steganografi\bin\Debug\Steganografi.exe.manifest
+D:\Time to CODE\cs\Steganografi\Steganografi\bin\Debug\Steganografi.application
+D:\Time to CODE\cs\Steganografi\Steganografi\obj\Debug\Steganografi.exe.manifest
+D:\Time to CODE\cs\Steganografi\Steganografi\obj\Debug\Steganografi.application
